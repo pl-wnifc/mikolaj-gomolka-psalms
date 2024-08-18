@@ -21,8 +21,8 @@
 *F:	*	*	*F:	*	*	*F:	*	*	*F:	*	*
 *met(C|)	*	*	*met(C|)	*	*	*met(C|)	*	*	*met(C|)	*	*
 *	*verse[1]	*verse[2]	*	*verse[1]	*verse[2]	*	*verse[1]	*verse[2]	*	*verse[1]	*verse[2]
-*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]	*[A,A,B,B]
-*A	*A	*A	*A	*A	*A	*A	*A	*A	*A	*A	*A
+*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 2F	Nieś-	Nieś-	2c/	Nieś-	Nieś-	2f	Nieś-	Nieś-	2a	Nieś-	Nieś-
 2F	-ćie	-ćie	2c/	-ćie	-ćie	2f	-ćie	-ćie	2a	-ćie	-ćie
@@ -47,7 +47,7 @@
 =4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-
 1FF	-(mu)	-mu:	1F	-(mu)	-mu:	1A	-mu	mu:	1f	-(mu)	mu:
 =:!:-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-
-*B	*B	*B	*B	*B	*B	*B	*B	*B	*B	*B	*B
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 2F	Je-	.	2c	Je-	.	2A	Je-	.	2a	Je-	.
 4D/	-(go)	.	2f	-(go)	.	2d	-(go)	.	2a	-(go)	.
 4E	.	.	.	.	.	.	.	.	.	.	.
